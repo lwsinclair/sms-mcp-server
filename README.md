@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yiyangli-sms-mcp-server-badge.png)](https://mseep.ai/app/yiyangli-sms-mcp-server)
+
 # Twilio MCP Server
 
 A Model Context Protocol (MCP) server that enables Claude and other AI assistants to send SMS and MMS messages using Twilio.
